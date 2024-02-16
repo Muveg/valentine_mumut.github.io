@@ -1,0 +1,9 @@
+body {
+  overflow: hidden;
+  background: #f9c5c8;
+  width: 100vw;
+  height: 100vh;
+}
+#love {
+  color: #f9c5c8;
+}
